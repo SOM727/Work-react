@@ -1,0 +1,22 @@
+export const SliderData2 = [
+    {
+      image:
+      'https://www.inspireusafoundation.org/wp-content/uploads/2023/01/inner-bicep-curl.gif'
+    },
+    {
+      image:
+      'https://www.inspireusafoundation.org/wp-content/uploads/2022/03/ez-bar-preacher-curl.gif'
+    },
+    {
+      image:
+      'https://www.inspireusafoundation.org/wp-content/uploads/2022/11/bench-dips-on-floor.gif'
+    },
+    {
+      image:
+      'https://www.inspireusafoundation.org/wp-content/uploads/2022/03/tricep-overhead-extensions.gif'
+    },
+    {
+      image:
+      'https://www.inspireusafoundation.org/wp-content/uploads/2021/11/dumbbell-reverse-wrist-curl-muscles.gif'
+    }
+  ];
